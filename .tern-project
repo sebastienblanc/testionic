@@ -1,0 +1,1 @@
+{"ide":{"scriptPaths":[{"type":"FOLDER","path":"www/js"},{"type":"FOLDER","path":"www/lib"},{"type":"FILE","path":"www/index.html"},{"type":"FOLDER","path":"www/templates"}]},"plugins":{"angular":{},"cordovajs":{}},"libs":["browser","ecma5"]}
